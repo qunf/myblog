@@ -1,0 +1,12 @@
+spring:
+  thymeleaf:
+    mode: HTML
+  profiles:
+    active: dev
+  web:
+    resources:
+      add-mappings: true
+
+
+
+comment.avatar: /images/avatar.jpg
